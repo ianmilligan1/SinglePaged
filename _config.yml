@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Topic Shifts Between Two US Presidential Administrations"
+keywords:    "digital humanities, topic shifts, Obama, Trump"
+description: "Using bootstrapped topic classification to efficiently and quickly explore changes between the Obama and Trump administrations "
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
